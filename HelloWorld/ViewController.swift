@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    let abc = 0
+    let abc = ""
     
 
     override func viewDidLoad() {
